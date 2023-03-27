@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerCharacter.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/ProjectileCharacter.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Assets/Characters/Character/Mesh/SK_EpicCharacter_Optimized.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Projectile.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Static_Meshes/Body.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Static_Meshes/Health.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/HealthBag.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Widgets/HealthWidget.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/NewBlueprint.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/NewBlueprint1.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Projectile2.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Force.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/PS_Cascate.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/NewBlueprint.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Projectile3.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Widgets/WBP_Restart.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Robots/StaticMeshes/MergedActors/MA_Building_2x2x4.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Key.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/staris.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Coin.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/maze.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerCharacter2.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Key2.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/ramp.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Widgets/Instruction.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Hit.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Widgets/W_gameCompletion.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Widgets/Win.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Widgets/NewWidgetBlueprint.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/Hour_of_Code/Widgets/WBP_PauseMenu.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled1.umap",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled2.umap",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled3.umap",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled4.umap",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled5.umap",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled6.umap",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/Collision.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Assets/VFX/LightRay/BP_Cascate.uasset",
+				"/Users/zijianpei/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/6.umap"
+			]
+		}
+	]
+}

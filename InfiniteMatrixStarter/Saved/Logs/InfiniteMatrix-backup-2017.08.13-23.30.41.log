@@ -1,0 +1,1029 @@
+﻿Log file open, 08/12/17 18:04:55
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: InfiniteMatrix
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(319231951) SRandInit(319231951).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178796
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3573198
+LogInit: Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug  4 2017 16:30:33
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.08.12-08.04.56:543][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.12-08.04.56:543][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.08.12-08.04.56:574][  0]LogInit: Computer: DESKTOP-IBGBMK1
+[2017.08.12-08.04.56:574][  0]LogInit: User: tommy
+[2017.08.12-08.04.56:574][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.08.12-08.04.56:574][  0]LogInit: High frequency timer resolution =2.437500 MHz
+[2017.08.12-08.04.56:574][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.08.12-08.04.56:574][  0]LogMemory: Platform Memory Stats for Windows
+[2017.08.12-08.04.56:574][  0]LogMemory: Process Physical Memory: 277.68 MB used, 277.68 MB peak
+[2017.08.12-08.04.56:574][  0]LogMemory: Process Virtual Memory: 273.97 MB used, 273.97 MB peak
+[2017.08.12-08.04.56:574][  0]LogMemory: Physical Memory: 4228.33 MB used,  3827.38 MB free, 8055.70 MB total
+[2017.08.12-08.04.56:574][  0]LogMemory: Virtual Memory: 667.45 MB used,  3827.38 MB free, 134217728.00 MB total
+[2017.08.12-08.04.57:446][  0]LogInit: Using OS detected language (en-US).
+[2017.08.12-08.04.57:446][  0]LogInit: Using OS detected locale (en-AU).
+[2017.08.12-08.04.57:499][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.08.12-08.05.00:285][  0]LogD3D11RHI: D3D11 adapters:
+[2017.08.12-08.05.00:330][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.08.12-08.05.00:330][  0]LogD3D11RHI:       1974/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.08.12-08.05.00:338][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.08.12-08.05.00:338][  0]LogD3D11RHI:       128/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.08.12-08.05.00:339][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.08.12-08.05.00:339][  0]LogD3D11RHI:       0/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.08.12-08.05.00:339][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.08.12-08.05.00:346][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.08.12-08.05.00:346][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2017.08.12-08.05.00:346][  0]LogWindows: EnumDisplayDevices:
+[2017.08.12-08.05.00:346][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.08.12-08.05.00:346][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.08.12-08.05.00:346][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.08.12-08.05.00:346][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.08.12-08.05.00:346][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.08.12-08.05.00:346][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.08.12-08.05.00:346][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.08.12-08.05.00:347][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.08.12-08.05.00:371][  0]LogD3D11RHI: Async texture creation enabled
+[2017.08.12-08.05.00:400][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.08.12-08.05.00:406][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/tommy/Desktop/InfiniteMatrix/Intermediate/Shaders/WorkingDirectory/11056/).
+[2017.08.12-08.05.00:406][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tommy/AppData/Local/Temp/UnrealShaderWorkingDir/879FD2DB4BB97B490586DAA056AC6D38/'.
+[2017.08.12-08.05.00:407][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.08.12-08.05.02:282][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.08.12-08.05.02:328][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.08.12-08.05.02:375][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.08.12-08.05.02:423][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.08.12-08.05.02:474][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.08.12-08.05.02:522][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.08.12-08.05.02:570][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.08.12-08.05.02:615][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.08.12-08.05.02:660][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.08.12-08.05.02:713][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.08.12-08.05.02:760][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.08.12-08.05.02:807][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.08.12-08.05.02:853][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.08.12-08.05.02:899][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.08.12-08.05.02:946][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.08.12-08.05.03:039][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.08.12-08.05.03:039][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.08.12-08.05.03:074][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.08.12-08.05.03:169][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.08.12-08.05.03:197][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.08.12-08.05.03:243][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.08.12-08.05.03:290][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.08.12-08.05.03:335][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.08.12-08.05.03:383][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.08.12-08.05.03:383][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.08.12-08.05.03:959][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.08.12-08.05.04:397][  0]LogDerivedDataCache: Loaded boot cache 0.44s 93MB C:/Users/tommy/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.12-08.05.04:397][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tommy/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.08.12-08.05.04:397][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tommy/Desktop/InfiniteMatrix/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.08.12-08.05.04:398][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.08.12-08.05.04:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tommy/Desktop/InfiniteMatrix/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.08.12-08.05.04:398][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.08.12-08.05.04:424][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.08.12-08.05.04:437][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tommy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.08.12-08.05.04:452][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.08.12-08.05.04:457][  0]LogSlate: Using Freetype 2.6.0
+[2017.08.12-08.05.04:474][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.12-08.05.04:474][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.08.12-08.05.05:354][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2017.08.12-08.05.05:511][  0]LogInit: Selected Device Profile: [Windows]
+[2017.08.12-08.05.05:921][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.08.12-08.05.06:313][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.08.12-08.05.06:354][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.08.12-08.05.06:354][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.08.12-08.05.06:354][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.08.12-08.05.06:354][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.08.12-08.05.06:354][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.08.12-08.05.07:107][  0]LogNetVersion: InfiniteMatrix , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1815960768)
+[2017.08.12-08.05.07:571][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.060299 seconds
+[2017.08.12-08.05.07:577][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.08.12-08.05.07:577][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.08.12-08.05.07:577][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.08.12-08.05.07:645][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.08.12-08.05.13:132][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.08.12-08.05.13:178][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.08.12-08.05.14:011][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.08.12-08.05.14:575][  0]SourceControl: Source control is disabled
+[2017.08.12-08.05.14:575][  0]SourceControl: Source control is disabled
+[2017.08.12-08.05.14:634][  0]SourceControl: Source control is disabled
+[2017.08.12-08.05.14:705][  0]SourceControl: Source control is disabled
+[2017.08.12-08.05.15:537][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.08.12-08.05.15:827][  0]LogOcInput: OculusInput pre-init called
+[2017.08.12-08.05.16:184][  0]LogEngine: Initializing Engine...
+[2017.08.12-08.05.16:186][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.08.12-08.05.16:665][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.08.12-08.05.16:665][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.08.12-08.05.16:807][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.08.12-08.05.16:828][  0]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-08.05.16:874][  0]LogInit: FAudioDevice initialized.
+[2017.08.12-08.05.16:977][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/tommy/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.08.12-08.05.16:991][  0]LogInit: Texture streaming: Enabled
+[2017.08.12-08.05.17:111][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.08.12-08.05.17:422][  0]LogInit: Transaction tracking system initialized
+[2017.08.12-08.05.17:829][  0]BlueprintLog: New page: Editor Load
+[2017.08.12-08.05.18:875][  0]LocalizationService: Localization service is disabled
+[2017.08.12-08.05.19:671][  0]LogConsoleResponse: Display: 
+[2017.08.12-08.05.20:093][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/Desktop/InfiniteMatrix/Content/' took 0.02s
+[2017.08.12-08.05.20:093][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.08.12-08.05.20:093][  0]LogCook: Display: Mobile HDR setting 1
+[2017.08.12-08.05.20:094][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.08.12-08.05.21:461][  0]SourceControl: Source control is disabled
+[2017.08.12-08.05.21:463][  0]Cmd: MAP LOAD FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.08.12-08.05.21:464][  0]LightingResults: New page: Lighting Build
+[2017.08.12-08.05.21:511][  0]MapCheck: New page: Map Check
+[2017.08.12-08.05.21:511][  0]LightingResults: New page: Lighting Build
+[2017.08.12-08.05.21:880][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-08.05.21:896][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.08.12-08.05.21:915][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.08.12-08.05.21:965][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.311ms to complete.
+[2017.08.12-08.05.21:965][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.504
+[2017.08.12-08.05.22:203][  0]LogCollectionManager: Loaded 0 collections in 0.002418 seconds
+[2017.08.12-08.05.22:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/Desktop/InfiniteMatrix/Saved/Collections/' took 0.01s
+[2017.08.12-08.05.22:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/Desktop/InfiniteMatrix/Content/Developers/tommy/Collections/' took 0.01s
+[2017.08.12-08.05.22:305][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/Desktop/InfiniteMatrix/Content/Collections/' took 0.01s
+[2017.08.12-08.05.22:305][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.08.12-08.05.22:323][  0]LogContentBrowser: Native class hierarchy populated in 0.0163 seconds. Added 2386 classes and 500 folders.
+[2017.08.12-08.05.22:397][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.08.12-08.05.22:815][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.08.12-08.05.22:872][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.08.12-08.05.23:043][  0]LogSlate: Took 0.010431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.12-08.05.23:055][  0]LogSlate: Took 0.007478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.08.12-08.05.23:067][  0]LogSlate: Took 0.004578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.08.12-08.05.23:257][  0]LogRenderer: Reallocating scene render targets to support 1112x628 Format 10 NumSamples 1 (Frame:1).
+[2017.08.12-08.05.23:505][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.08.12-08.05.23:505][  0]LogLoad: (Engine Initialization) Total time: 29.53 seconds
+[2017.08.12-08.05.23:506][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.08.12-08.05.23:506][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.08.12-08.05.23:868][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.08.12-08.05.23:921][  0]LogSlate: Took 0.004930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.12-08.05.24:189][  1]LogAssetRegistry: Asset discovery search completed in 18.8577 seconds
+[2017.08.12-08.05.24:191][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.08.12-08.05.24:191][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2017.08.12-08.07.36:089][656]LogSlate: Took 0.000371 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.12-08.07.36:580][656]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.08.12-08.07.37:361][656]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.08.12-08.07.37:516][656]LogSlate: Took 0.006137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.08.12-08.07.37:765][657]LogSlate: Took 0.010315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.08.12-08.11.54:712][752]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.08.12-08.18.26:066][806]LogSlate: Took 0.010196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.08.12-08.18.36:482][306]BlueprintLog: New page: Compile BP_Player
+[2017.08.12-08.19.13:945][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.017
+[2017.08.12-08.19.13:948][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-08.19.13:948][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-08.19.14:040][610]LogSavePackage: Save=42.72ms
+[2017.08.12-08.19.14:040][610]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto13284337C441882753FF5B885871AD1B9.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto1.uasset'
+[2017.08.12-08.19.14:043][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto1.uasset
+[2017.08.12-08.19.14:043][610]LogFileHelpers: Auto-saving content packages took 0.097
+[2017.08.12-08.29.14:579][ 97]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.025
+[2017.08.12-08.29.14:580][ 97]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-08.29.14:581][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-08.29.14:659][ 97]LogSavePackage: Save=44.59ms
+[2017.08.12-08.29.14:659][ 97]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto229CCDE2F44B9B8B4CD0F64BD653B5016.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto2.uasset'
+[2017.08.12-08.29.14:663][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto2.uasset
+[2017.08.12-08.29.14:663][ 97]LogFileHelpers: Auto-saving content packages took 0.084
+[2017.08.12-08.34.38:989][ 82]BlueprintLog: New page: Compile BP_Player
+[2017.08.12-08.34.52:885][847]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-08.34.52:932][847]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.08.12-08.34.52:943][847]LogPlayLevel: [PlayLevel] Compiling BP_TunnelSpawner before play...
+[2017.08.12-08.34.52:951][847]LogPlayLevel: [PlayLevel]   Compiling BP_Tunnel as a dependent...
+[2017.08.12-08.34.53:215][847]LogPlayLevel: PlayLevel: Blueprint regeneration took 282 ms (2 blueprints)
+[2017.08.12-08.34.53:224][847]PIE: New page: PIE session: TutorialMap (13 Aug 2017 4:34:53 am)
+[2017.08.12-08.34.53:225][847]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-08.34.53:227][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002362s)
+[2017.08.12-08.34.53:228][847]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-08.34.53:228][847]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2017.08.12-08.34.53:229][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003946s)
+[2017.08.12-08.34.53:252][847]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-08.34.53:263][847]LogInit: FAudioDevice initialized.
+[2017.08.12-08.34.53:320][847]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-08.34.53:322][847]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-18.34.53
+[2017.08.12-08.34.53:323][847]LogWorld: Bringing up level for play took: 0.002158
+[2017.08.12-08.34.53:378][847]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.08.12-08.34.53:397][847]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.367
+[2017.08.12-08.35.00:540][254]BlueprintLog: New page: Compile BP_Tunnel
+[2017.08.12-08.35.01:031][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2017.08.12-08.35.01:126][261]LogSavePackage: Save=62.80ms
+[2017.08.12-08.35.01:126][261]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Tunnel602AE6BF4CE544CF9002FFA6427A619A.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2017.08.12-08.35.01:131][261]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2017.08.12-08.35.54:420][108]BlueprintLog: New page: Compile BP_Player
+[2017.08.12-08.35.54:810][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2017.08.12-08.35.54:897][110]LogSavePackage: Save=54.63ms
+[2017.08.12-08.35.54:897][110]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player5809E094429ED3B603F5D7A749428E66.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2017.08.12-08.35.54:903][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2017.08.12-08.38.12:346][ 19]BlueprintLog: New page: Compile BP_Player
+[2017.08.12-08.38.13:049][ 37]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-08.38.13:072][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-08.38.13:072][ 37]PIE: New page: PIE session: TutorialMap (13 Aug 2017 4:38:13 am)
+[2017.08.12-08.38.13:072][ 37]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-08.38.13:074][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001610s)
+[2017.08.12-08.38.13:075][ 37]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-08.38.13:075][ 37]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2017.08.12-08.38.13:075][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002970s)
+[2017.08.12-08.38.13:096][ 37]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-08.38.13:107][ 37]LogInit: FAudioDevice initialized.
+[2017.08.12-08.38.13:149][ 37]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-08.38.13:151][ 37]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-18.38.13
+[2017.08.12-08.38.13:152][ 37]LogWorld: Bringing up level for play took: 0.002116
+[2017.08.12-08.38.13:159][ 37]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.129
+[2017.08.12-08.38.24:270][679]BlueprintLog: New page: Compile BP_Tunnel
+[2017.08.12-08.38.24:878][695]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-08.38.24:899][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-08.38.24:899][695]PIE: New page: PIE session: TutorialMap (13 Aug 2017 4:38:24 am)
+[2017.08.12-08.38.24:899][695]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-08.38.24:901][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001431s)
+[2017.08.12-08.38.24:901][695]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-08.38.24:901][695]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2017.08.12-08.38.24:902][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002413s)
+[2017.08.12-08.38.24:921][695]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-08.38.24:930][695]LogInit: FAudioDevice initialized.
+[2017.08.12-08.38.24:973][695]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-08.38.24:975][695]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-18.38.24
+[2017.08.12-08.38.24:976][695]LogWorld: Bringing up level for play took: 0.001353
+[2017.08.12-08.38.24:988][695]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.042
+[2017.08.12-08.38.35:363][305]LogEditorTransaction: Undo Move Node
+[2017.08.12-08.38.35:617][319]LogEditorTransaction: Undo Move Node
+[2017.08.12-08.38.35:845][332]LogEditorTransaction: Undo Create Pin Link
+[2017.08.12-08.38.36:159][350]LogEditorTransaction: Undo Move Node
+[2017.08.12-08.38.36:485][369]LogEditorTransaction: Undo Add Node
+[2017.08.12-08.38.36:893][393]LogEditorTransaction: Undo Create Pin Link
+[2017.08.12-08.38.37:570][432]LogEditorTransaction: Undo Delete current selection
+[2017.08.12-08.38.38:517][487]BlueprintLog: New page: Compile BP_Player
+[2017.08.12-08.39.30:695][228]LogSavePackage: Save=25.12ms
+[2017.08.12-08.39.30:695][228]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap_Auto3B687D946478322AC4F9DA8BE3242A168.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto3.umap'
+[2017.08.12-08.39.30:698][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto3.umap
+[2017.08.12-08.39.30:703][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.089
+[2017.08.12-08.39.30:703][228]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.089
+[2017.08.12-08.39.30:705][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2017.08.12-08.39.30:733][228]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2017.08.12-08.39.30:733][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2017.08.12-08.39.30:827][228]LogSavePackage: Save=67.04ms
+[2017.08.12-08.39.30:827][228]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Tunnel_Auto304FC9BD24CA8C41EF62C57BBD9B9C1EB.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto3.uasset'
+[2017.08.12-08.39.30:829][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto3.uasset
+[2017.08.12-08.39.30:830][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-08.39.30:830][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-08.39.30:914][228]LogSavePackage: Save=56.72ms
+[2017.08.12-08.39.30:914][228]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto3897E17ED408998BF3F3E009BDA707CF6.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto3.uasset'
+[2017.08.12-08.39.30:915][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto3.uasset
+[2017.08.12-08.39.30:915][228]LogFileHelpers: Auto-saving content packages took 0.211
+[2017.08.12-08.45.24:014][646]BlueprintLog: New page: Compile BP_Tunnel
+[2017.08.12-08.45.24:498][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2017.08.12-08.45.24:602][653]LogSavePackage: Save=65.80ms
+[2017.08.12-08.45.24:602][653]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Tunnel97E6B532421A72174C0FF5AC9BFBA952.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2017.08.12-08.45.24:609][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2017.08.12-08.45.25:701][718]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-08.45.25:725][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-08.45.25:726][718]PIE: New page: PIE session: TutorialMap (13 Aug 2017 4:45:25 am)
+[2017.08.12-08.45.25:726][718]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-08.45.25:727][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001495s)
+[2017.08.12-08.45.25:728][718]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-08.45.25:728][718]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2017.08.12-08.45.25:728][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002647s)
+[2017.08.12-08.45.25:750][718]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-08.45.25:762][718]LogInit: FAudioDevice initialized.
+[2017.08.12-08.45.25:808][718]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-08.45.25:810][718]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-18.45.25
+[2017.08.12-08.45.25:810][718]LogWorld: Bringing up level for play took: 0.001219
+[2017.08.12-08.45.25:819][718]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.789
+[2017.08.12-08.48.16:105][732]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-08.48.16:129][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-08.48.16:129][732]PIE: New page: PIE session: TutorialMap (13 Aug 2017 4:48:16 am)
+[2017.08.12-08.48.16:129][732]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-08.48.16:131][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001625s)
+[2017.08.12-08.48.16:133][732]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-08.48.16:133][732]LogPlayLevel: PIE: World Init took: (0.001955s)
+[2017.08.12-08.48.16:133][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004060s)
+[2017.08.12-08.48.16:157][732]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-08.48.16:167][732]LogInit: FAudioDevice initialized.
+[2017.08.12-08.48.16:213][732]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-08.48.16:216][732]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-18.48.16
+[2017.08.12-08.48.16:216][732]LogWorld: Bringing up level for play took: 0.001318
+[2017.08.12-08.48.16:223][732]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.807
+[2017.08.12-08.48.32:358][857]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-08.48.32:379][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-08.48.32:379][857]PIE: New page: PIE session: TutorialMap (13 Aug 2017 4:48:32 am)
+[2017.08.12-08.48.32:379][857]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-08.48.32:380][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001609s)
+[2017.08.12-08.48.32:381][857]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-08.48.32:381][857]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2017.08.12-08.48.32:381][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002695s)
+[2017.08.12-08.48.32:400][857]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-08.48.32:410][857]LogInit: FAudioDevice initialized.
+[2017.08.12-08.48.32:458][857]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-08.48.32:461][857]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-18.48.32
+[2017.08.12-08.48.32:462][857]LogWorld: Bringing up level for play took: 0.002066
+[2017.08.12-08.48.32:469][857]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.56
+[2017.08.12-08.48.59:908][251]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-08.48.59:930][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-08.48.59:930][251]PIE: New page: PIE session: TutorialMap (13 Aug 2017 4:48:59 am)
+[2017.08.12-08.48.59:930][251]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-08.48.59:932][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001726s)
+[2017.08.12-08.48.59:933][251]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-08.48.59:933][251]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2017.08.12-08.48.59:934][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003548s)
+[2017.08.12-08.48.59:954][251]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-08.48.59:964][251]LogInit: FAudioDevice initialized.
+[2017.08.12-08.49.00:009][251]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-08.49.00:011][251]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-18.49.00
+[2017.08.12-08.49.00:011][251]LogWorld: Bringing up level for play took: 0.001204
+[2017.08.12-08.49.00:020][251]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.989
+[2017.08.12-08.51.17:009][157]LogSavePackage: Save=25.16ms
+[2017.08.12-08.51.17:009][157]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap_Auto44CDB600542C9C0037C4854B14C8EF59F.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto4.umap'
+[2017.08.12-08.51.17:011][157]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto4.umap
+[2017.08.12-08.51.17:013][157]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.083
+[2017.08.12-08.51.17:013][157]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2017.08.12-08.52.36:241][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2017.08.12-08.52.36:328][585]LogSavePackage: Save=55.12ms
+[2017.08.12-08.52.36:328][585]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player356B568C417AF2D8A1517A803B7E5D8C.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2017.08.12-08.52.36:335][585]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2017.08.12-08.55.16:319][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2017.08.12-08.55.16:403][843]LogSavePackage: Save=54.51ms
+[2017.08.12-08.55.16:403][843]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player59FC3D49499723EC6F3C3B982FAB0F55.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2017.08.12-08.55.16:405][843]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2017.08.12-09.07.37:969][621]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.026
+[2017.08.12-09.07.37:971][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-09.07.37:971][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-09.07.38:071][621]LogSavePackage: Save=62.30ms
+[2017.08.12-09.07.38:071][621]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto5F58B94C942A25A786C93AFBC2FB05C98.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto5.uasset'
+[2017.08.12-09.07.38:074][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto5.uasset
+[2017.08.12-09.07.38:075][621]LogFileHelpers: Auto-saving content packages took 0.105
+[2017.08.12-09.15.54:866][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2017.08.12-09.15.54:974][918]LogSavePackage: Save=66.80ms
+[2017.08.12-09.15.54:974][918]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player3736B40C4450E1E814240C854009ABA2.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2017.08.12-09.15.54:978][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2017.08.12-09.51.05:360][836]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.12-09.52.11:697][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.039
+[2017.08.12-09.52.11:699][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-09.52.11:699][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-09.52.11:804][783]LogSavePackage: Save=68.55ms
+[2017.08.12-09.52.11:804][783]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto6A0B91B814D811A6E1D2EC3ABB91C70FF.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto6.uasset'
+[2017.08.12-09.52.11:807][783]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto6.uasset
+[2017.08.12-09.52.11:807][783]LogFileHelpers: Auto-saving content packages took 0.109
+[2017.08.12-10.11.01:234][452]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.034
+[2017.08.12-10.11.01:236][452]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([1] browsable assets)...
+[2017.08.12-10.11.01:236][452]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2017.08.12-10.11.01:324][452]LogSavePackage: Save=49.28ms
+[2017.08.12-10.11.01:324][452]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto7AC2AB62B4F7B000E53D4D6A43C4EF2BF.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto7.uasset'
+[2017.08.12-10.11.01:327][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto7.uasset
+[2017.08.12-10.11.01:327][452]LogFileHelpers: Auto-saving content packages took 0.092
+[2017.08.12-10.21.17:444][444]LogSavePackage: Save=25.88ms
+[2017.08.12-10.21.17:444][444]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap_Auto8EFA0DE51407C9CC5BCE15E92A1DE4C56.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto8.umap'
+[2017.08.12-10.21.17:447][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto8.umap
+[2017.08.12-10.21.17:452][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.093
+[2017.08.12-10.21.17:452][444]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.093
+[2017.08.12-10.21.17:454][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([1] browsable assets)...
+[2017.08.12-10.21.17:454][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2017.08.12-10.21.17:534][444]LogSavePackage: Save=47.33ms
+[2017.08.12-10.21.17:534][444]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto84EC71F164BD20E36BBA0C2A068A69F8B.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto8.uasset'
+[2017.08.12-10.21.17:536][444]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto8.uasset
+[2017.08.12-10.21.17:536][444]LogFileHelpers: Auto-saving content packages took 0.083
+[2017.08.12-10.25.19:542][254]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2017.08.12-10.25.20:777][287]LogSavePackage: Save=47.94ms
+[2017.08.12-10.25.20:777][287]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner41C7CD86455D39270E577981221222FD.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2017.08.12-10.25.20:784][287]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2017.08.12-10.31.18:178][820]LogSavePackage: Save=27.61ms
+[2017.08.12-10.31.18:178][820]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap_Auto96A29810F40218D5455309EB5A0DFABBA.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto9.umap'
+[2017.08.12-10.31.18:181][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto9.umap
+[2017.08.12-10.31.18:186][820]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.099
+[2017.08.12-10.31.18:186][820]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.099
+[2017.08.12-10.31.18:189][820]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-10.31.18:189][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-10.31.18:290][820]LogSavePackage: Save=70.41ms
+[2017.08.12-10.31.18:290][820]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto9D69A999F4D65AB471C9B089E4536C2F7.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto9.uasset'
+[2017.08.12-10.31.18:295][820]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto9.uasset
+[2017.08.12-10.31.18:295][820]LogFileHelpers: Auto-saving content packages took 0.107
+[2017.08.12-10.38.20:304][ 92]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.08.12-10.41.19:166][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.032
+[2017.08.12-10.41.19:168][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/UI/WBP_Restart] ([1] browsable assets)...
+[2017.08.12-10.41.19:168][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/WBP_Restart]
+[2017.08.12-10.41.19:233][871]LogSavePackage: Save=29.49ms
+[2017.08.12-10.41.19:234][871]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/WBP_Restart_Auto06307B4704F58C7ABF5732E885E92620F.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Restart_Auto0.uasset'
+[2017.08.12-10.41.19:236][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/UI/WBP_Restart_Auto0.uasset
+[2017.08.12-10.41.19:236][871]LogFileHelpers: Auto-saving content packages took 0.069
+[2017.08.12-10.43.36:401][721]BlueprintLog: New page: Compile BP_Player
+[2017.08.12-10.46.31:294][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/UI/WBP_Restart" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset" SILENT=true
+[2017.08.12-10.46.31:362][342]LogSavePackage: Save=28.05ms
+[2017.08.12-10.46.31:363][342]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/WBP_Restart3DAD82994EA91FE5799FD2B331560B71.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset'
+[2017.08.12-10.46.31:367][342]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset
+[2017.08.12-10.46.35:325][578]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-10.46.35:349][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-10.46.35:349][578]PIE: New page: PIE session: TutorialMap (13 Aug 2017 6:46:35 am)
+[2017.08.12-10.46.35:350][578]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-10.46.35:352][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001953s)
+[2017.08.12-10.46.35:353][578]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-10.46.35:353][578]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2017.08.12-10.46.35:353][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.003712s)
+[2017.08.12-10.46.35:378][578]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-10.46.35:388][578]LogInit: FAudioDevice initialized.
+[2017.08.12-10.46.35:435][578]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-10.46.35:437][578]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-20.46.35
+[2017.08.12-10.46.35:438][578]LogWorld: Bringing up level for play took: 0.001247
+[2017.08.12-10.46.35:449][578]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.419
+[2017.08.12-10.48.05:442][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/UI/WBP_Restart" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset" SILENT=true
+[2017.08.12-10.48.05:495][404]LogSavePackage: Save=26.17ms
+[2017.08.12-10.48.05:495][404]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/WBP_Restart228C6F49447FB0E1006ABFBB21344FC9.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset'
+[2017.08.12-10.48.05:498][404]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/UI/WBP_Restart.uasset
+[2017.08.12-10.48.14:039][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.12-10.48.14:164][545]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.12-10.48.14:820][576]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-10.48.14:842][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-10.48.14:842][576]PIE: New page: PIE session: TutorialMap (13 Aug 2017 6:48:14 am)
+[2017.08.12-10.48.14:843][576]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-10.48.14:844][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001396s)
+[2017.08.12-10.48.14:845][576]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-10.48.14:845][576]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2017.08.12-10.48.14:845][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002404s)
+[2017.08.12-10.48.14:872][576]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-10.48.14:882][576]LogInit: FAudioDevice initialized.
+[2017.08.12-10.48.14:922][576]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-10.48.14:925][576]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-20.48.14
+[2017.08.12-10.48.14:925][576]LogWorld: Bringing up level for play took: 0.001449
+[2017.08.12-10.48.14:932][576]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.098
+[2017.08.12-10.48.58:707][817]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-10.48.58:724][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-10.48.58:725][817]PIE: New page: PIE session: TutorialMap (13 Aug 2017 6:48:58 am)
+[2017.08.12-10.48.58:725][817]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-10.48.58:726][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2017.08.12-10.48.58:727][817]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-10.48.58:727][817]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2017.08.12-10.48.58:727][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002408s)
+[2017.08.12-10.48.58:745][817]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-10.48.58:755][817]LogInit: FAudioDevice initialized.
+[2017.08.12-10.48.58:798][817]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-10.48.58:803][817]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-20.48.58
+[2017.08.12-10.48.58:804][817]LogWorld: Bringing up level for play took: 0.003490
+[2017.08.12-10.48.58:811][817]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.219
+[2017.08.12-10.51.51:066][742]LogSavePackage: Save=25.81ms
+[2017.08.12-10.51.51:066][742]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap_Auto11E2D5EDE423C70B8829F3FB62770CE9D.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto1.umap'
+[2017.08.12-10.51.51:069][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto1.umap
+[2017.08.12-10.51.51:073][742]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.095
+[2017.08.12-10.51.51:073][742]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.095
+[2017.08.12-10.51.51:076][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-10.51.51:076][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-10.51.51:170][742]LogSavePackage: Save=65.21ms
+[2017.08.12-10.51.51:170][742]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto1C266BEF641E1E45A1816FE9A9E9F3DA5.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto1.uasset'
+[2017.08.12-10.51.51:172][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto1.uasset
+[2017.08.12-10.51.51:172][742]LogFileHelpers: Auto-saving content packages took 0.098
+[2017.08.12-10.58.29:204][888]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2017.08.12-10.58.29:782][893]LogSavePackage: Save=50.89ms
+[2017.08.12-10.58.29:783][893]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawnerD6B6688443A62B4DFCF069BE73A1A554.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2017.08.12-10.58.29:786][893]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2017.08.12-11.00.24:084][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2017.08.12-11.00.24:184][562]LogSavePackage: Save=64.66ms
+[2017.08.12-11.00.24:185][562]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player7E97634B41127FC82B3E7CAA1EC756A0.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2017.08.12-11.00.24:195][562]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2017.08.12-11.02.38:591][781]LogSavePackage: Save=24.04ms
+[2017.08.12-11.02.38:591][781]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap_Auto254EB93974D89C7E64226B0AD00D331A3.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto2.umap'
+[2017.08.12-11.02.38:594][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto2.umap
+[2017.08.12-11.02.38:597][781]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.092
+[2017.08.12-11.02.38:597][781]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.092
+[2017.08.12-11.08.25:579][852]LogSavePackage: Save=24.01ms
+[2017.08.12-11.08.25:579][852]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap8A2B392442D902BC7019ED821062A1BB.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2017.08.12-11.08.25:584][852]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap
+[2017.08.12-11.08.27:834][957]LogSavePackage: Save=48.73ms
+[2017.08.12-11.08.27:834][957]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawnerAB8E851C4C1A853E534476ABA5674BCC.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2017.08.12-11.08.27:837][957]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2017.08.12-11.08.28:642][999]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.12-11.35.44:855][337]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-11.35.44:882][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-11.35.44:882][337]PIE: New page: PIE session: TutorialMap (13 Aug 2017 7:35:44 am)
+[2017.08.12-11.35.44:883][337]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-11.35.44:887][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003999s)
+[2017.08.12-11.35.44:888][337]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-11.35.44:889][337]LogPlayLevel: PIE: World Init took: (0.002206s)
+[2017.08.12-11.35.44:889][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006799s)
+[2017.08.12-11.35.44:946][337]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-11.35.44:959][337]LogInit: FAudioDevice initialized.
+[2017.08.12-11.35.45:006][337]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-11.35.45:008][337]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-21.35.45
+[2017.08.12-11.35.45:009][337]LogWorld: Bringing up level for play took: 0.001631
+[2017.08.12-11.35.45:017][337]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.013
+[2017.08.12-11.35.52:224][476]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-11.35.52:243][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-11.35.52:243][476]PIE: New page: PIE session: TutorialMap (13 Aug 2017 7:35:52 am)
+[2017.08.12-11.35.52:243][476]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-11.35.52:245][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001521s)
+[2017.08.12-11.35.52:246][476]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-11.35.52:246][476]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2017.08.12-11.35.52:246][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002818s)
+[2017.08.12-11.35.52:268][476]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-11.35.52:278][476]LogInit: FAudioDevice initialized.
+[2017.08.12-11.35.52:329][476]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-11.35.52:331][476]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-21.35.52
+[2017.08.12-11.35.52:332][476]LogWorld: Bringing up level for play took: 0.001349
+[2017.08.12-11.35.52:340][476]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.691
+[2017.08.12-11.53.00:493][905]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.021
+[2017.08.12-11.53.00:495][905]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-11.53.00:495][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-11.53.00:588][905]LogSavePackage: Save=66.66ms
+[2017.08.12-11.53.00:588][905]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto346CCC6B64678FA277BEC239CD25DA2B7.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto3.uasset'
+[2017.08.12-11.53.00:590][905]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto3.uasset
+[2017.08.12-11.53.00:590][905]LogFileHelpers: Auto-saving content packages took 0.097
+[2017.08.12-12.03.01:215][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.024
+[2017.08.12-12.03.01:217][921]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Player] ([1] browsable assets)...
+[2017.08.12-12.03.01:217][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Player]
+[2017.08.12-12.03.01:315][921]LogSavePackage: Save=68.44ms
+[2017.08.12-12.03.01:315][921]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player_Auto466756DC947F6BF741D3738A7E537EDD3.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto4.uasset'
+[2017.08.12-12.03.01:319][921]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Player_Auto4.uasset
+[2017.08.12-12.03.01:319][921]LogFileHelpers: Auto-saving content packages took 0.103
+[2017.08.12-12.08.33:290][246]BlueprintLog: New page: Compile BP_Player
+[2017.08.12-12.08.36:010][383]LogEditorTransaction: Undo Create Pin Link
+[2017.08.12-12.08.36:184][390]LogEditorTransaction: Undo Move Node
+[2017.08.12-12.08.36:343][396]LogEditorTransaction: Undo Create Pin Link
+[2017.08.12-12.08.36:518][403]LogEditorTransaction: Undo Move Node
+[2017.08.12-12.08.36:677][409]LogEditorTransaction: Undo Create Pin Link
+[2017.08.12-12.08.36:847][416]LogEditorTransaction: Undo Move Nodes
+[2017.08.12-12.08.37:064][426]LogEditorTransaction: Undo Delete current selection
+[2017.08.12-12.08.37:455][446]LogEditorTransaction: Undo Delete current selection
+[2017.08.12-12.08.37:711][458]LogEditorTransaction: Undo Split Struct Pin
+[2017.08.12-12.08.39:155][541]LogEditorTransaction: Undo Recombine Struct Pin
+[2017.08.12-12.08.39:363][550]LogEditorTransaction: Undo Split Struct Pin
+[2017.08.12-12.08.39:787][572]LogEditorTransaction: Undo Delete current selection
+[2017.08.12-12.08.40:026][583]LogEditorTransaction: Undo Straighten Connection(s)
+[2017.08.12-12.08.40:939][634]LogEditorTransaction: Undo Straighten Connection(s)
+[2017.08.12-12.08.41:122][642]LogEditorTransaction: Undo Straighten Connection(s)
+[2017.08.12-12.08.41:290][649]LogEditorTransaction: Undo Move Nodes
+[2017.08.12-12.08.41:461][656]LogEditorTransaction: Undo Move Node
+[2017.08.12-12.08.41:632][663]LogEditorTransaction: Undo Move Node
+[2017.08.12-12.08.41:806][670]LogEditorTransaction: Undo Create Pin Link
+[2017.08.12-12.08.41:976][677]LogEditorTransaction: Undo Move Nodes
+[2017.08.12-12.08.42:163][685]LogEditorTransaction: Undo Recombine Struct Pin
+[2017.08.12-12.08.42:353][693]LogEditorTransaction: Undo Break Pin Links
+[2017.08.12-12.08.45:178][834]BlueprintLog: New page: Compile BP_Player
+[2017.08.12-12.08.46:073][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Player" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset" SILENT=true
+[2017.08.12-12.08.46:164][858]LogSavePackage: Save=65.79ms
+[2017.08.12-12.08.46:165][858]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Player93820E1D4AE7A1795A79E1B7BBC44AAE.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset'
+[2017.08.12-12.08.46:172][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset
+[2017.08.12-12.09.45:621][429]LogEditorTransaction: Undo Change Vector Pin Value
+[2017.08.12-12.09.45:765][436]LogEditorTransaction: Undo Change Vector Pin Value
+[2017.08.12-12.09.45:922][444]LogEditorTransaction: Undo Change Vector Pin Value
+[2017.08.12-12.09.46:083][452]LogEditorTransaction: Undo Move Node
+[2017.08.12-12.09.46:389][469]LogEditorTransaction: Undo Create Pin Link
+[2017.08.12-12.09.46:714][487]LogEditorTransaction: Undo Add Node
+[2017.08.12-12.09.47:036][505]LogEditorTransaction: Undo Delete current selection
+[2017.08.12-12.09.48:324][581]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2017.08.12-12.13.02:247][162]LogSavePackage: Save=28.47ms
+[2017.08.12-12.13.02:247][162]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap_Auto548492CB640EB8EAA44D891B5C74172F2.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto5.umap'
+[2017.08.12-12.13.02:249][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto5.umap
+[2017.08.12-12.13.02:255][162]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.109
+[2017.08.12-12.13.02:255][162]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2017.08.12-12.13.02:258][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([1] browsable assets)...
+[2017.08.12-12.13.02:258][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2017.08.12-12.13.02:335][162]LogSavePackage: Save=49.27ms
+[2017.08.12-12.13.02:335][162]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto5FB30EE0E4D1B81E1C5FDD3B1CA9D40B8.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto5.uasset'
+[2017.08.12-12.13.02:338][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto5.uasset
+[2017.08.12-12.13.02:338][162]LogFileHelpers: Auto-saving content packages took 0.082
+[2017.08.12-12.51.58:562][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2017.08.12-12.51.58:666][938]LogSavePackage: Save=71.04ms
+[2017.08.12-12.51.58:666][938]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Tunnel7A809CAA41DD687C07B11EA89D005BF8.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2017.08.12-12.51.58:668][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2017.08.12-12.52.01:112][ 76]LogSavePackage: Save=46.12ms
+[2017.08.12-12.52.01:112][ 76]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner549B93BE40867050045F16B95B72ADFC.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2017.08.12-12.52.01:118][ 76]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2017.08.12-12.52.02:458][147]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.12-13.25.43:531][810]LogEditorTransaction: Undo Break Pin Links
+[2017.08.12-13.25.44:101][840]LogEditorTransaction: Undo Break Pin Links
+[2017.08.12-13.25.45:529][923]BlueprintLog: New page: Compile BP_Tunnel
+[2017.08.12-13.26.11:325][ 13]LogSavePackage: Save=26.08ms
+[2017.08.12-13.26.11:325][ 13]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap_Auto62A07E58044ED2BDF3B695AB80E241859.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto6.umap'
+[2017.08.12-13.26.11:328][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto6.umap
+[2017.08.12-13.26.11:334][ 13]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.091
+[2017.08.12-13.26.11:334][ 13]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.091
+[2017.08.12-13.26.11:335][ 13]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2017.08.12-13.26.11:363][ 13]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2017.08.12-13.26.11:363][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2017.08.12-13.26.11:458][ 13]LogSavePackage: Save=64.40ms
+[2017.08.12-13.26.11:458][ 13]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Tunnel_Auto615EAB8B746E523246D72169DE7CA1D52.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto6.uasset'
+[2017.08.12-13.26.11:462][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto6.uasset
+[2017.08.12-13.26.11:462][ 13]LogFileHelpers: Auto-saving content packages took 0.128
+[2017.08.12-13.40.46:649][323]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.12-13.41.19:158][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.022
+[2017.08.12-13.41.19:160][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner] ([1] browsable assets)...
+[2017.08.12-13.41.19:160][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner]
+[2017.08.12-13.41.19:245][940]LogSavePackage: Save=47.46ms
+[2017.08.12-13.41.19:245][940]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner_Auto750707B00483AC9B953B94BBBA02F9412.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto7.uasset'
+[2017.08.12-13.41.19:248][940]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner_Auto7.uasset
+[2017.08.12-13.41.19:248][940]LogFileHelpers: Auto-saving content packages took 0.090
+[2017.08.12-13.42.51:726][664]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2017.08.12-13.42.52:602][687]LogSavePackage: Save=45.89ms
+[2017.08.12-13.42.52:602][687]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner46F93D964AD4F2A423E93994D6DD4084.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2017.08.12-13.42.52:606][687]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2017.08.12-13.44.57:143][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InfiniteMatrix/Blueprints/BP_Tunnel" FILE="../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset" SILENT=true
+[2017.08.12-13.44.57:240][908]LogSavePackage: Save=60.70ms
+[2017.08.12-13.44.57:240][908]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_Tunnel08750DD540868DFD4E26088B20D3EFDC.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2017.08.12-13.44.57:247][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset
+[2017.08.12-13.45.02:493][207]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.08.12-13.47.05:759][347]BlueprintLog: New page: Compile BP_TunnelSpawner
+[2017.08.12-13.47.07:605][424]LogSavePackage: Save=47.40ms
+[2017.08.12-13.47.07:605][424]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner1195B1F54C7D1797995297A428E43A4C.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2017.08.12-13.47.07:609][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2017.08.12-13.47.08:194][459]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.08.12-13.47.08:219][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.08.12-13.47.08:219][459]PIE: New page: PIE session: TutorialMap (13 Aug 2017 9:47:08 am)
+[2017.08.12-13.47.08:219][459]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2017.08.12-13.47.08:222][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002453s)
+[2017.08.12-13.47.08:223][459]LogAIModule: Creating AISystem for world TutorialMap
+[2017.08.12-13.47.08:223][459]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2017.08.12-13.47.08:223][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004167s)
+[2017.08.12-13.47.08:250][459]LogInit: XAudio2 using 'Speakers / Headphones (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.08.12-13.47.08:262][459]LogInit: FAudioDevice initialized.
+[2017.08.12-13.47.08:306][459]LogLoad: Game class is 'GM_Tutorial_C'
+[2017.08.12-13.47.08:308][459]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2017.08.12-23.47.08
+[2017.08.12-13.47.08:308][459]LogWorld: Bringing up level for play took: 0.001137
+[2017.08.12-13.47.08:317][459]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.713
+[2017.08.12-13.48.17:662][733]LogSavePackage: Save=44.54ms
+[2017.08.12-13.48.17:662][733]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/BP_TunnelSpawner1D7A19FA4E3664AD6D40ADA5BBCAE2A2.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset'
+[2017.08.12-13.48.17:664][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset
+[2017.08.12-13.48.22:546][884]LogSavePackage: Save=27.09ms
+[2017.08.12-13.48.22:546][884]LogSavePackage: Moving '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Saved/TutorialMap89EF6F624CD51F21DDCF06887FFDC25D.tmp' to '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2017.08.12-13.48.22:554][884]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/InfiniteMatrix/Maps/TutorialMap.umap
+[2017.08.12-13.48.22:588][884]LogFileHelpers: Saving map 'TutorialMap' took 0.177
+[2017.08.12-13.48.22:682][884]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.08.12-13.48.22:926][885]Cmd: QUIT_EDITOR
+[2017.08.12-13.48.23:891][885]LogExit: Preparing to exit.
+[2017.08.12-13.48.25:074][885]LogDirectoryWatcher: A directory notification for 'C:/Users/tommy/Desktop/InfiniteMatrix/Content/' was aborted.
+[2017.08.12-13.48.25:193][885]LogExit: Editor shut down
+[2017.08.12-13.48.25:231][885]LogExit: Transaction tracking system shut down
+[2017.08.12-13.48.25:438][885]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.08.12-13.48.25:438][885]LogDirectoryWatcher: A directory notification for '../../../../../../Users/tommy/Desktop/InfiniteMatrix/Content/' was aborted.
+[2017.08.12-13.48.25:438][885]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.08.12-13.48.25:438][885]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.08.12-13.48.25:438][885]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.08.12-13.48.25:656][885]LogExit: Object subsystem successfully closed.
+[2017.08.12-13.48.25:695][885]LogD3D11RHI: Shutdown
+[2017.08.12-13.48.25:696][885]LogD3D11RHI: CleanupD3DDevice
+[2017.08.12-13.48.25:798][885]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.08.12-13.48.25:843][885]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2017.08.12-13.48.25:843][885]LogModuleManager: Shutting down and abandoning module SequencerWidgets (536)
+[2017.08.12-13.48.25:843][885]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2017.08.12-13.48.25:843][885]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2017.08.12-13.48.25:844][885]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.08.12-13.48.25:844][885]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.08.12-13.48.25:844][885]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.08.12-13.48.25:845][885]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.08.12-13.48.25:853][885]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.08.12-13.48.25:853][885]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.08.12-13.48.25:853][885]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.08.12-13.48.25:853][885]LogDirectoryWatcher: A directory notification for 'C:/Users/tommy/Desktop/InfiniteMatrix/Content/Collections/' was aborted.
+[2017.08.12-13.48.25:854][885]LogDirectoryWatcher: A directory notification for 'C:/Users/tommy/Desktop/InfiniteMatrix/Content/Developers/tommy/Collections/' was aborted.
+[2017.08.12-13.48.25:854][885]LogDirectoryWatcher: A directory notification for 'C:/Users/tommy/Desktop/InfiniteMatrix/Saved/Collections/' was aborted.
+[2017.08.12-13.48.25:854][885]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.08.12-13.48.25:854][885]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.08.12-13.48.25:854][885]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.08.12-13.48.25:855][885]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.08.12-13.48.25:856][885]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.08.12-13.48.25:856][885]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.08.12-13.48.25:857][885]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.08.12-13.48.25:858][885]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.08.12-13.48.25:858][885]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.08.12-13.48.25:858][885]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.08.12-13.48.25:858][885]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.08.12-13.48.25:858][885]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.08.12-13.48.25:859][885]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.08.12-13.48.25:860][885]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.08.12-13.48.25:862][885]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.08.12-13.48.25:863][885]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.08.12-13.48.25:863][885]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.08.12-13.48.25:863][885]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.08.12-13.48.25:863][885]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.08.12-13.48.26:403][885]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.08.12-13.48.26:403][885]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.08.12-13.48.26:403][885]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.08.12-13.48.26:403][885]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.08.12-13.48.26:405][885]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.08.12-13.48.26:406][885]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.08.12-13.48.26:406][885]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.08.12-13.48.26:406][885]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.08.12-13.48.26:406][885]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.08.12-13.48.26:407][885]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.08.12-13.48.26:407][885]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.08.12-13.48.26:407][885]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.08.12-13.48.26:408][885]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.08.12-13.48.26:408][885]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.08.12-13.48.26:408][885]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.08.12-13.48.26:408][885]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.08.12-13.48.26:408][885]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.08.12-13.48.26:408][885]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.08.12-13.48.26:408][885]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.08.12-13.48.26:409][885]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.08.12-13.48.26:409][885]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.08.12-13.48.26:411][885]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.08.12-13.48.26:411][885]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.08.12-13.48.26:412][885]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.08.12-13.48.26:466][885]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.08.12-13.48.26:467][885]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.08.12-13.48.26:468][885]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.08.12-13.48.26:470][885]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.08.12-13.48.26:470][885]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.08.12-13.48.26:471][885]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.08.12-13.48.26:471][885]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.08.12-13.48.26:472][885]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.08.12-13.48.26:472][885]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.08.12-13.48.26:473][885]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.08.12-13.48.26:489][885]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.08.12-13.48.26:492][885]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.08.12-13.48.26:493][885]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.08.12-13.48.26:493][885]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.08.12-13.48.26:494][885]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.08.12-13.48.26:494][885]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.08.12-13.48.26:495][885]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.08.12-13.48.26:497][885]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.08.12-13.48.26:497][885]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.08.12-13.48.26:497][885]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.08.12-13.48.26:497][885]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.08.12-13.48.26:499][885]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.08.12-13.48.26:499][885]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.08.12-13.48.26:499][885]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.08.12-13.48.26:500][885]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.08.12-13.48.26:500][885]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.08.12-13.48.26:500][885]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.08.12-13.48.26:500][885]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.08.12-13.48.26:500][885]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.08.12-13.48.26:500][885]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.08.12-13.48.26:500][885]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.08.12-13.48.26:604][885]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.08.12-13.48.26:606][885]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.08.12-13.48.26:606][885]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.08.12-13.48.26:607][885]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.08.12-13.48.26:607][885]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.08.12-13.48.26:607][885]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.08.12-13.48.26:607][885]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.08.12-13.48.26:607][885]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.08.12-13.48.26:607][885]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.08.12-13.48.26:607][885]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.08.12-13.48.26:607][885]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.08.12-13.48.26:609][885]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.08.12-13.48.26:609][885]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.08.12-13.48.26:609][885]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.08.12-13.48.26:609][885]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.08.12-13.48.26:609][885]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.08.12-13.48.26:609][885]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.08.12-13.48.26:609][885]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.08.12-13.48.26:612][885]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.08.12-13.48.26:614][885]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.08.12-13.48.26:614][885]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.08.12-13.48.26:614][885]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.08.12-13.48.26:614][885]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.08.12-13.48.26:615][885]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.08.12-13.48.26:616][885]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.08.12-13.48.26:617][885]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.08.12-13.48.26:617][885]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.08.12-13.48.26:617][885]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.08.12-13.48.26:617][885]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.08.12-13.48.26:617][885]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.08.12-13.48.26:618][885]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.08.12-13.48.26:618][885]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.08.12-13.48.26:620][885]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.08.12-13.48.26:621][885]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.08.12-13.48.26:622][885]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.08.12-13.48.26:623][885]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.08.12-13.48.26:623][885]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.08.12-13.48.26:623][885]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.08.12-13.48.26:623][885]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.08.12-13.48.26:623][885]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.08.12-13.48.26:623][885]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.08.12-13.48.26:623][885]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.08.12-13.48.26:623][885]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.08.12-13.48.26:723][885]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.08.12-13.48.26:826][885]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.08.12-13.48.26:828][885]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.08.12-13.48.26:828][885]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.08.12-13.48.26:828][885]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.08.12-13.48.26:829][885]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.08.12-13.48.26:829][885]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.08.12-13.48.26:832][885]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.08.12-13.48.26:832][885]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.08.12-13.48.26:832][885]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.08.12-13.48.26:832][885]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.08.12-13.48.26:832][885]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.08.12-13.48.26:832][885]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.08.12-13.48.26:832][885]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.08.12-13.48.26:833][885]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.08.12-13.48.26:834][885]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.08.12-13.48.26:834][885]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.08.12-13.48.26:834][885]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.08.12-13.48.26:834][885]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.08.12-13.48.26:835][885]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.08.12-13.48.26:835][885]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.08.12-13.48.26:836][885]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.08.12-13.48.26:837][885]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.08.12-13.48.26:837][885]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.08.12-13.48.26:837][885]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.08.12-13.48.26:837][885]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.08.12-13.48.26:837][885]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.08.12-13.48.26:837][885]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.08.12-13.48.26:837][885]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.08.12-13.48.26:839][885]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.08.12-13.48.26:839][885]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.08.12-13.48.26:842][885]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.08.12-13.48.26:842][885]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.08.12-13.48.26:842][885]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.08.12-13.48.26:842][885]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.08.12-13.48.26:842][885]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.08.12-13.48.26:842][885]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.08.12-13.48.26:842][885]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.08.12-13.48.26:842][885]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.08.12-13.48.26:843][885]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.08.12-13.48.26:844][885]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.08.12-13.48.26:845][885]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.08.12-13.48.26:846][885]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.08.12-13.48.26:846][885]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.08.12-13.48.26:846][885]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.08.12-13.48.26:847][885]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.08.12-13.48.26:847][885]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.08.12-13.48.26:853][885]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.08.12-13.48.26:899][885]LogDerivedDataCache: Shutdown
+[2017.08.12-13.48.26:900][885]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.08.12-13.48.26:900][885]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.08.12-13.48.26:900][885]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.08.12-13.48.26:902][885]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.08.12-13.48.26:902][885]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.08.12-13.48.26:902][885]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.08.12-13.48.26:903][885]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.08.12-13.48.26:903][885]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.08.12-13.48.26:903][885]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.08.12-13.48.26:903][885]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.08.12-13.48.26:904][885]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.08.12-13.48.26:905][885]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.08.12-13.48.26:906][885]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.08.12-13.48.26:906][885]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.08.12-13.48.26:906][885]LogOnline: Display: Unloading online subsystem: NULL
+[2017.08.12-13.48.26:906][885]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.08.12-13.48.26:907][885]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.08.12-13.48.26:907][885]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.08.12-13.48.26:907][885]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B01B20462-45F9-8084-6B71-3581F8CF32EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.0-3573198%2B%2B%2BUE4%2BRelease-4.17&UserID=b4e25eea4a0d6450fb924cbf2b84ec0c%7Cddaae3d7adad4251b47aebd4e1f1f19e%7Cc1bb1c04-1998-4d1c-9da9-f3fc45d89125&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.08.12-13.48.26:917][885]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.08.12-13.48.26:919][885]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.08.12-13.48.26:920][885]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.08.12-13.48.26:920][885]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.08.12-13.48.26:923][885]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.08.12-13.48.26:923][885]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.08.12-13.48.26:924][885]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.08.12-13.48.26:924][885]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.08.12-13.48.26:934][885]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.08.12-13.48.26:935][885]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.08.12-13.48.26:935][885]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.08.12-13.48.26:935][885]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.08.12-13.48.26:935][885]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.08.12-13.48.26:935][885]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.08.12-13.48.26:936][885]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.08.12-13.48.26:936][885]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.08.12-13.48.26:936][885]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.08.12-13.48.26:936][885]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.08.12-13.48.26:936][885]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.08.12-13.48.26:942][885]LogExit: Exiting.
+[2017.08.12-13.48.26:966][885]Log file closed, 08/12/17 23:48:26
